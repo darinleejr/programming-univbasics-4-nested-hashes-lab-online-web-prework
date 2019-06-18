@@ -117,7 +117,7 @@ def changing_alan
 
 $ programmer_hash[:alans_new_info] = programmer_hash.delete(:alan_kay)
 
-programmer_hash[:alans_new_info][:known_for] = "GUI"
+
 
      
 end
